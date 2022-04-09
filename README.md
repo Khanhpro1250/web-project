@@ -5,7 +5,7 @@ B2: gõ "npm i" để cài các thư viện trong package.json
 
 B3: tạo file .env lưu Port và mongodb.
 Ví dụ: PORT = 3000
-mongodb = "mongodb://localhost:27017/<dbName>"
+mongodb = "mongodb://localhost:27017/dbName"
 
 B4: "npm start" để run project
 
