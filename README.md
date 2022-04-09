@@ -10,7 +10,9 @@ mongodb = "mongodb://localhost:27017/chat-app"
 B4: "npm start" để run project
 
 // chỉ có gmail sv mới login được
+
 TK admin
+
 tk: admin@gmail.com
 
 mk: admin
